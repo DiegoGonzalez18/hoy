@@ -1,0 +1,25 @@
+<footer class="app-footer">
+        <span><a href="#">Comercio Internacional</a></span>
+        <span class="ml-auto">Programa Académico de la Universidad Francisco de Paula Santander</span>
+    </footer>
+
+    <!-- Bootstrap and necessary plugins --> 
+    <script src="../../assets/vendors/js/jquery.min.js"></script>
+    <script src="../../assets/vendors/js/popper.min.js"></script>
+    <script src="../../assets/vendors/js/bootstrap.min.js"></script>
+    <script src="../../assets/vendors/js/pace.min.js"></script>
+    <!-- Plugins and scripts required by all views -->
+    <script src="../../assets/vendors/js/Chart.min.js"></script>
+    <!-- GenesisUI main scripts -->
+    <script src="../../assets/vendors/js/template.js"></script>
+
+    <script src="//cdn.jsdelivr.net/npm/alertifyjs@1.11.4/build/alertify.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js"></script>
+    <script src="https://cdn.datatables.net/1.10.19/js/dataTables.bootstrap4.min.js"></script>
+   
+ <script>
+ $('#example').DataTable();</script>
+</body>
+
+</html>
